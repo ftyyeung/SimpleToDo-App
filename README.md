@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/ftyyeung/SimpleToDo-App/blob/master/SimpleToDo.gif?raw=true' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -41,7 +41,7 @@ As part of your pre-work submission, please reflect on the app and answer the fo
 
 **Question 1:** "What are your reactions to the Android app development platform so far? Compare and contrast Android's approach to layouts and user interfaces in past platforms you've used."
 
-**Answer:** As someone whose primary choice of coding language is Java, Android Application in Android Studio was definitly a familiar sight. I found all logical development to be straight forward and well documented. The use of gradle to handle configuration and dependencies also proves to be much easier than before. Android's approach in layout design appears to be mediocre however. While raw XML editing is certainly useful, the graphical layout tool proves to be far behind in comparison to Xcode. Constraints and screen segues are much more intuitive within Xcode.
+**Answer:** As someone whose primary choice of coding language is Java, Android Application in Android Studio was definitely a familiar sight. I found all logical development to be straight forward and well documented. The use of gradle to handle configuration and dependencies also proves to be much easier than before. Android's approach in layout design appears to be mediocre however. While raw XML editing is certainly useful, the graphical layout tool proves to be far behind in comparison to Xcode. Constraints and screen segues are much more intuitive within Xcode.
 
 **Question 2:** "Take a moment to reflect on the `ArrayAdapter` used in your pre-work. How would you describe an adapter in this context and what is its function in Android? Why do you think the adapter is important? Explain the purpose of the `convertView` in the `getView` method of the `ArrayAdapter`."
 
